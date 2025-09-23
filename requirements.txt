@@ -1,0 +1,6 @@
+PySide6
+PyQt5 
+torch 
+torchaudio
+torchvision 
+scikit-learn 
