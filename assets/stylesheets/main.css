@@ -1,0 +1,27 @@
+/* Style cho cửa sổ chính */
+QMainWindow {
+    background-color: #f0f0f0;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Style cho các nút bấm */
+QPushButton {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Style khi di chuột qua nút */
+QPushButton:hover {
+    background-color: #2980b9;
+}
+
+/* Style cho label */
+QLabel {
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+}
