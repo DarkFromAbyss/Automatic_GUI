@@ -2,34 +2,34 @@
 
 ## Mục lục
 
-TÀI LIỆU SRS
-├─── 1. Giới thiệu - Introduction
-│   ├─── Mục đích - Purpose
-│   ├─── Phạm vi sản phẩm - Product Scope
-│   ├─── Đối tượng người đọc - Intent Audience
-│   ├─── Định nghĩa, từ viết tắt - Abbreviations
-│   └─── Tài liệu liên quan - References
-│
-├─── 2. Mô tả chung - Description Overview
-│   ├─── Đặc điểm người dùng - User Needs
-│   └─── Giả định và phụ thuộc - Assumptions & Dependencies
-│
-└─── 3. Các yêu cầu cụ thể - System Features and Requirements 
-    ├─── Yêu cầu chức năng - Functional Requirements 
-    │   ├─── Mô tả chức năng
-    │   ├─── Đầu vào/Đầu ra
-    │   └─── Quy trình xử lý
+    TÀI LIỆU SRS
+    ├─── 1. Giới thiệu - Introduction
+    │   ├─── Mục đích - Purpose
+    │   ├─── Phạm vi sản phẩm - Product Scope
+    │   ├─── Đối tượng người đọc - Intent Audience
+    │   ├─── Định nghĩa, từ viết tắt - Abbreviations
+    │   └─── Tài liệu liên quan - References
     │
-    ├─── Yêu cầu phi chức năng - Non-functional Requirements
-    |   ├─── Hiệu suất
-    |   ├─── Bảo mật
-    |   ├─── Độ tin cậy
-    |   └─── Khả năng sử dụng
-    |
-    └─── Yêu cầu mở rộng - External Interface Requirements
-        ├─── Performance Requirements
-        ├─── Safety Requirements
-        └─── Security Reuirements
+    ├─── 2. Mô tả chung - Description Overview
+    │   ├─── Đặc điểm người dùng - User Needs
+    │   └─── Giả định và phụ thuộc - Assumptions & Dependencies
+    │
+    └─── 3. Các yêu cầu cụ thể - System Features and Requirements 
+        ├─── Yêu cầu chức năng - Functional Requirements 
+        │   ├─── Mô tả chức năng
+        │   ├─── Đầu vào/Đầu ra
+        │   └─── Quy trình xử lý
+        │
+        ├─── Yêu cầu phi chức năng - Non-functional Requirements
+        |   ├─── Hiệu suất
+        |   ├─── Bảo mật
+        |   ├─── Độ tin cậy
+        |   └─── Khả năng sử dụng
+        |
+        └─── Yêu cầu mở rộng - External Interface Requirements
+            ├─── Performance Requirements
+            ├─── Safety Requirements
+            └─── Security Reuirements
 
 
 
